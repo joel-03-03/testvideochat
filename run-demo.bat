@@ -12,4 +12,4 @@ SET API_SECRET=39f2736f837834a4ff1e33a3f1d90cd94670d610
 
 RD /q /s storage
 
-php.exe -S localhost:8080 -t web web/index.php
+php.exe -S https://first-proj-1.herokuapp.com/ -t web web/index.php
