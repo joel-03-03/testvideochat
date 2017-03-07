@@ -1,5 +1,4 @@
 <?php
-echo "Xdxd";
 $autoloader = __DIR__.'/../vendor/autoload.php';
 
 if(!file_exists($autoloader)) {
