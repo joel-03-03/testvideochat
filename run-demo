@@ -2,8 +2,8 @@
 
 if [ -z "$API_KEY" ] || [ -z "$API_SECRET" ]
 then
-   export API_KEY=45785862
-   export API_SECRET=39f2736f837834a4ff1e33a3f1d90cd94670d610
+   export API_KEY=45867622
+   export API_SECRET=f2a6b3f0627d0b1c7603194781765623754431e3
 fi
 
 if [ -d "storage" ]
