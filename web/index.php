@@ -1,4 +1,6 @@
 <?php
+
+echo "Helloooo";
 $autoloader = __DIR__.'/../vendor/autoload.php';
 
 if(!file_exists($autoloader)) {
